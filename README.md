@@ -83,7 +83,7 @@ percentuale votanti ore 12:00 `8,73 %`
 | :-----: | -----: | ------: | -----: |
 | TOTALE  |    924 |     978 |   1902 |
 
-percentuale votanti ore 12:00 `22,46 %`
+percentuale votanti ore 19:00 `22,46 %`
 
 ### ore 23:00
 
@@ -108,7 +108,7 @@ percentuale votanti ore 12:00 `22,46 %`
 | :-----: | -----: | ------: | -----: |
 | TOTALE  |   1139 |    1490 |   2849 |
 
-percentuale votanti ore 12:00 `33,66 %`
+percentuale votanti ore 23:00 `33,66 %`
 
 ## RISULTATI DEFINITIVI
 
