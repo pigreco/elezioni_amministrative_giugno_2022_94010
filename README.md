@@ -129,8 +129,8 @@ percentuale votanti ore 23:00 `33,66 %`
 - qui il file CSV ([consiglio_comunale_lista1.csv](dati/consiglio_comunale_lista1.csv))
 - qui il file PDF ([LISTA 1 E 2  RIEPILOGATIVO x il sito.pdf](risorse/LISTA%201%20E%202%20%20RIEPILOGATIVO%20x%20il%20sito.pdf))
 
-| nro | lista 1                             |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
-| --- | ----------------------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| nro | LISTA 1                             |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
+| :-: | ----------------------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1   | ABBATE Maurizio                     |    4 |   23 |    6 |    6 |    5 |    7 |   17 |    4 |   20 |    3 |    6 |
 | 2   | CANTELLA Stefania                   |   14 |   34 |   24 |   16 |   12 |   19 |   69 |    4 |   16 |   33 |    6 |
 | 3   | CARLUCCIO isabella                  |    8 |   10 |   16 |   18 |   12 |   10 |   22 |    3 |   12 |   29 |    8 |
@@ -147,8 +147,8 @@ percentuale votanti ore 23:00 `33,66 %`
 - qui il file CSV ([consiglio_comunale_lista2.csv](dati/consiglio_comunale_lista2.csv))
 - qui il file PDF ([LISTA 1 E 2  RIEPILOGATIVO x il sito.pdf](risorse/LISTA%201%20E%202%20%20RIEPILOGATIVO%20x%20il%20sito.pdf))
 
-| nro | lista 2                 |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
-| --- | ----------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| nro | LISTA 2                 |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
+| :-: | ----------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
 | 1   | D'ALU' Angelo Domenico  |    3 |   22 |   20 |   13 |   19 |   14 |   47 |   15 |   34 |   14 |    5 |
 | 2   | DI NICOLO' Alberto      |   18 |   23 |   46 |   26 |   28 |   29 |   52 |   10 |   41 |   52 |    7 |
 | 3   | GALLEA Antonio          |   12 |   12 |   19 |    7 |   10 |   17 |   45 |    4 |   48 |   26 |   19 |
