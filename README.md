@@ -101,47 +101,47 @@ percentuale votanti ore 12:00 `33,66 %`
 - qui il file ([risultati_definitivi.csv](dati/risultati_definitivi.csv))
 - qui il file PDF ([Definitivo Sindaco RIEPILOGATIVO per il sito.pdf](risorse/Definitivo%20Sindaco%20RIEPILOGATIVO%20per%20il%20sito.pdf))
 
-| CANDIDATO/LISTA   | SINDACO/PARTITO                                                        | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
-| ----------------- | ---------------------------------------------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| CANDIDATO SINDACO | FASCIANA Giuseppe                                                      | 56  | 133 | 77  | 96  | 60  | 99  | 217 | 33  | 99  | 118 | 73  |
-| LISTA 1           | FASCIANA SINDACO LIBERI di ESSERCI                                     | 53  | 127 | 73  | 90  | 58  | 90  | 215 | 27  | 103 | 114 | 61  |
-| CANDIDATO SINDACO | COSTANZA Francesco Antonio Cateno                                      | 78  | 139 | 168 | 92  | 110 | 141 | 325 | 43  | 249 | 164 | 217 |
-| LISTA 2           | per VILLAROSA e VILLAPRIOLO <br> RICOMINCIAMO INSIEME COSTANZA SINDACO | 77  | 142 | 170 | 97  | 110 | 143 | 316 | 49  | 246 | 159 | 216 |
+| CANDIDATO/LISTA   | SINDACO/PARTITO                                                        |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
+| ----------------- | ---------------------------------------------------------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| CANDIDATO SINDACO | FASCIANA Giuseppe                                                      |   56 |  133 |   77 |   96 |   60 |   99 |  217 |   33 |   99 |  118 |   73 |
+| LISTA 1           | FASCIANA SINDACO LIBERI di ESSERCI                                     |   53 |  127 |   73 |   90 |   58 |   90 |  215 |   27 |  103 |  114 |   61 |
+| CANDIDATO SINDACO | COSTANZA Francesco Antonio Cateno                                      |   78 |  139 |  168 |   92 |  110 |  141 |  325 |   43 |  249 |  164 |  217 |
+| LISTA 2           | per VILLAROSA e VILLAPRIOLO <br> RICOMINCIAMO INSIEME COSTANZA SINDACO |   77 |  142 |  170 |   97 |  110 |  143 |  316 |   49 |  246 |  159 |  216 |
 
 ### CONSIGLIO COMUNALE
 
 - qui il file ([consiglio_comunale_lista1.csv](dati/consiglio_comunale_lista1.csv))
 - qui il file PDF ([LISTA 1 E 2  RIEPILOGATIVO x il sito.pdf](risorse/LISTA%201%20E%202%20%20RIEPILOGATIVO%20x%20il%20sito.pdf))
 
-| nro | lista 1                             | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
-| --- | ----------------------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | ABBATE Maurizio                     | 4   | 23  | 6   | 6   | 5   | 7   | 17  | 4   | 20  | 3   | 6   |
-| 2   | CANTELLA Stefania                   | 14  | 34  | 24  | 16  | 12  | 19  | 69  | 4   | 16  | 33  | 6   |
-| 3   | CARLUCCIO isabella                  | 8   | 10  | 16  | 18  | 12  | 10  | 22  | 3   | 12  | 29  | 8   |
-| 4   | CINQUEGRANI Giusi                   | 2   | 9   | 6   | 24  | 5   | 14  | 17  | 1   | 10  | 9   | 3   |
-| 5   | CURATOLO Calogero                   |     | 1   |     |     | 2   |     | 2   |     | 1   |     |
-| 6   | FARACI Alessandro Mario             | 16  | 31  | 28  | 25  | 11  | 17  | 64  | 11  | 32  | 45  | 10  |
-| 7   | FERRARA Giuliana Maria              | 9   | 24  | 13  | 11  | 11  | 28  | 52  | 6   | 25  | 26  | 3   |
-| 8   | LA PAGLIA Giuseppa                  |     | 6   |     | 3   | 1   |     | 5   | 1   |     | 2   | 25  |
-| 9   | LA VALLE Ivan                       | 2   | 24  | 9   | 23  | 6   | 11  | 24  |     | 6   | 7   |
-| 10  | POLIZZI Mario Antonio               |     | 3   | 3   |     | 2   | 2   | 9   |     | 1   | 1   | 31  |
-| 11  | ZAFFORA Agostino Gabriele Salvatore | 19  | 21  | 20  | 18  | 15  | 32  | 63  | 7   | 19  | 41  | 7   |
-| 12  | IPPOLITO Erika                      |     | 8   | 1   | 4   | 3   | 2   | 10  |     | 4   |     | 2   |
+| nro | lista 1                             |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
+| --- | ----------------------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1   | ABBATE Maurizio                     |    4 |   23 |    6 |    6 |    5 |    7 |   17 |    4 |   20 |    3 |    6 |
+| 2   | CANTELLA Stefania                   |   14 |   34 |   24 |   16 |   12 |   19 |   69 |    4 |   16 |   33 |    6 |
+| 3   | CARLUCCIO isabella                  |    8 |   10 |   16 |   18 |   12 |   10 |   22 |    3 |   12 |   29 |    8 |
+| 4   | CINQUEGRANI Giusi                   |    2 |    9 |    6 |   24 |    5 |   14 |   17 |    1 |   10 |    9 |    3 |
+| 5   | CURATOLO Calogero                   |      |    1 |      |      |    2 |      |    2 |      |    1 |      |
+| 6   | FARACI Alessandro Mario             |   16 |   31 |   28 |   25 |   11 |   17 |   64 |   11 |   32 |   45 |   10 |
+| 7   | FERRARA Giuliana Maria              |    9 |   24 |   13 |   11 |   11 |   28 |   52 |    6 |   25 |   26 |    3 |
+| 8   | LA PAGLIA Giuseppa                  |      |    6 |      |    3 |    1 |      |    5 |    1 |      |    2 |   25 |
+| 9   | LA VALLE Ivan                       |    2 |   24 |    9 |   23 |    6 |   11 |   24 |      |    6 |    7 |
+| 10  | POLIZZI Mario Antonio               |      |    3 |    3 |      |    2 |    2 |    9 |      |    1 |    1 |   31 |
+| 11  | ZAFFORA Agostino Gabriele Salvatore |   19 |   21 |   20 |   18 |   15 |   32 |   63 |    7 |   19 |   41 |    7 |
+| 12  | IPPOLITO Erika                      |      |    8 |    1 |    4 |    3 |    2 |   10 |      |    4 |      |    2 |
 
 - qui il file ([consiglio_comunale_lista2.csv](dati/consiglio_comunale_lista2.csv))
 - qui il file PDF ([LISTA 1 E 2  RIEPILOGATIVO x il sito.pdf](risorse/LISTA%201%20E%202%20%20RIEPILOGATIVO%20x%20il%20sito.pdf))
 
-| nro | lista 2                 | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
-| --- | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1   | D'ALU' Angelo Domenico  | 3   | 22  | 20  | 13  | 19  | 14  | 47  | 15  | 34  | 14  | 5   |
-| 2   | DI NICOLO' Alberto      | 18  | 23  | 46  | 26  | 28  | 29  | 52  | 10  | 41  | 52  | 7   |
-| 3   | GALLEA Antonio          | 12  | 12  | 19  | 7   | 10  | 17  | 45  | 4   | 48  | 26  | 19  |
-| 4   | GIADONE Paola           | 7   | 11  | 7   | 4   | 9   | 11  | 35  | 1   | 24  | 23  | 99  |
-| 5   | GIANNONE Veronica       | 4   | 19  | 30  | 12  | 17  | 12  | 37  | 4   | 42  | 18  | 15  |
-| 6   | GRANADA Deborah         | 8   | 3   | 21  | 6   | 6   | 9   | 40  | 5   | 33  | 16  | 11  |
-| 7   | IPPOLITO Giuseppe       | 29  | 44  | 38  | 21  | 26  | 38  | 80  | 7   | 55  | 20  | 15  |
-| 8   | MELI Lorenzo            | 6   | 14  | 25  | 12  | 13  | 16  | 35  | 5   | 44  | 27  | 51  |
-| 9   | PIGNATO Lorena          | 16  | 38  | 22  | 17  | 26  | 32  | 81  | 15  | 63  | 35  | 20  |
-| 10  | PLACENTI Carola         | 3   | 12  | 22  | 14  | 7   | 12  | 23  | 6   | 22  | 17  | 17  |
-| 11  | SCHEMBRI Giuliana       | 18  | 21  | 31  | 15  | 15  | 18  | 25  | 2   | 15  | 3   | 23  |
-| 12  | ZAFFORA Angelo Riccardo | 4   | 11  | 8   | 11  | 11  | 5   | 28  | 1   | 8   | 7   | 124 |
+| nro | lista 2                 |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
+| --- | ----------------------- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1   | D'ALU' Angelo Domenico  |    3 |   22 |   20 |   13 |   19 |   14 |   47 |   15 |   34 |   14 |    5 |
+| 2   | DI NICOLO' Alberto      |   18 |   23 |   46 |   26 |   28 |   29 |   52 |   10 |   41 |   52 |    7 |
+| 3   | GALLEA Antonio          |   12 |   12 |   19 |    7 |   10 |   17 |   45 |    4 |   48 |   26 |   19 |
+| 4   | GIADONE Paola           |    7 |   11 |    7 |    4 |    9 |   11 |   35 |    1 |   24 |   23 |   99 |
+| 5   | GIANNONE Veronica       |    4 |   19 |   30 |   12 |   17 |   12 |   37 |    4 |   42 |   18 |   15 |
+| 6   | GRANADA Deborah         |    8 |    3 |   21 |    6 |    6 |    9 |   40 |    5 |   33 |   16 |   11 |
+| 7   | IPPOLITO Giuseppe       |   29 |   44 |   38 |   21 |   26 |   38 |   80 |    7 |   55 |   20 |   15 |
+| 8   | MELI Lorenzo            |    6 |   14 |   25 |   12 |   13 |   16 |   35 |    5 |   44 |   27 |   51 |
+| 9   | PIGNATO Lorena          |   16 |   38 |   22 |   17 |   26 |   32 |   81 |   15 |   63 |   35 |   20 |
+| 10  | PLACENTI Carola         |    3 |   12 |   22 |   14 |    7 |   12 |   23 |    6 |   22 |   17 |   17 |
+| 11  | SCHEMBRI Giuliana       |   18 |   21 |   31 |   15 |   15 |   18 |   25 |    2 |   15 |    3 |   23 |
+| 12  | ZAFFORA Angelo Riccardo |    4 |   11 |    8 |   11 |   11 |    5 |   28 |    1 |    8 |    7 |  124 |
