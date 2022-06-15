@@ -46,7 +46,7 @@ percentuale votanti ore 12:00 `8,73 %`
 
 ### ore 19:00
 
-- qui il file ([nro_votanti_h19.csv](dati/nro_votanti_h19.csv))
+- qui il file CSV ([nro_votanti_h19.csv](dati/nro_votanti_h19.csv))
 - qui il file PDF ([allegato 1 RIEP AMM ALLE ORE 19,00 x sito.pdf](risorse/allegato%201%20RIEP%20AMM%20ALLE%20ORE%2019%2C00%20x%20sito.pdf))
 
 | SEZIONE | MASCHI | FEMMINE | TOTALE |
@@ -71,7 +71,7 @@ percentuale votanti ore 12:00 `22,46 %`
 
 ### ore 23:00
 
-- qui il file ([nro_votanti_h23.csv](dati/nro_votanti_h23.csv))
+- qui il file CSV ([nro_votanti_h23.csv](dati/nro_votanti_h23.csv))
 - qui il file PDF ([Mod. 5 RIEP ore 23 chiusura AMM.pdf](risorse/Mod.%205%20RIEP%20ore%2023%20chiusura%20AMM.pdf))
 
 | SEZIONE | MASCHI | FEMMINE | TOTALE |
@@ -98,7 +98,7 @@ percentuale votanti ore 12:00 `33,66 %`
 
 ### SINDACO
 
-- qui il file ([risultati_definitivi.csv](dati/risultati_definitivi.csv))
+- qui il file CSV ([risultati_definitivi.csv](dati/risultati_definitivi.csv))
 - qui il file PDF ([Definitivo Sindaco RIEPILOGATIVO per il sito.pdf](risorse/Definitivo%20Sindaco%20RIEPILOGATIVO%20per%20il%20sito.pdf))
 
 | CANDIDATO/LISTA   | SINDACO/PARTITO                                                        |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
@@ -110,7 +110,7 @@ percentuale votanti ore 12:00 `33,66 %`
 
 ### CONSIGLIO COMUNALE
 
-- qui il file ([consiglio_comunale_lista1.csv](dati/consiglio_comunale_lista1.csv))
+- qui il file CSV ([consiglio_comunale_lista1.csv](dati/consiglio_comunale_lista1.csv))
 - qui il file PDF ([LISTA 1 E 2  RIEPILOGATIVO x il sito.pdf](risorse/LISTA%201%20E%202%20%20RIEPILOGATIVO%20x%20il%20sito.pdf))
 
 | nro | lista 1                             |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
@@ -128,7 +128,7 @@ percentuale votanti ore 12:00 `33,66 %`
 | 11  | ZAFFORA Agostino Gabriele Salvatore |   19 |   21 |   20 |   18 |   15 |   32 |   63 |    7 |   19 |   41 |    7 |
 | 12  | IPPOLITO Erika                      |      |    8 |    1 |    4 |    3 |    2 |   10 |      |    4 |      |    2 |
 
-- qui il file ([consiglio_comunale_lista2.csv](dati/consiglio_comunale_lista2.csv))
+- qui il file CSV ([consiglio_comunale_lista2.csv](dati/consiglio_comunale_lista2.csv))
 - qui il file PDF ([LISTA 1 E 2  RIEPILOGATIVO x il sito.pdf](risorse/LISTA%201%20E%202%20%20RIEPILOGATIVO%20x%20il%20sito.pdf))
 
 | nro | lista 2                 |    1 |    2 |    3 |    4 |    5 |    6 |    7 |    8 |    9 |   10 |   11 |
