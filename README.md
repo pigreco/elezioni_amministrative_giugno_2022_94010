@@ -5,6 +5,7 @@ Elezioni amministrative del 12 giugno 2022 Comune di Villarosa 94010 Enna
 <!-- TOC -->
 
 - [Elezioni amministrative  e Referendum](#elezioni-amministrative--e-referendum)
+  - [Dati](#dati)
   - [Popolazione](#popolazione)
   - [Elettori](#elettori)
   - [Numero votanti](#numero-votanti)
@@ -16,6 +17,13 @@ Elezioni amministrative del 12 giugno 2022 Comune di Villarosa 94010 Enna
     - [CONSIGLIO COMUNALE](#consiglio-comunale)
 
 <!-- /TOC -->
+
+## Dati
+
+**Nota bene:** i dati presenti in questo repository sono riutilizzabili e distribuiti con Licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org/licenses/by/4.0/deed.it).
+Se li usi, cita questo repository (https://github.com/pigreco/elezioni_amministrative_giugno_2022_94010).
+
+La fonte dati è il [Comune di Villarosa](https://www.comune.villarosa.en.it/villarosa/hh/index.php).
 
 ## Popolazione
 
