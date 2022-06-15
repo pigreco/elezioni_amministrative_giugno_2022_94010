@@ -2,8 +2,24 @@
 
 Elezioni amministrative del 12 giugno 2022 Comune di Villarosa 94010 Enna
 
-##
-- Popolazione (censimento 2011) 5130;
+<!-- TOC -->
+
+- [Elezioni amministrative  e Referendum](#elezioni-amministrative--e-referendum)
+  - [Popolazione](#popolazione)
+  - [Elettori](#elettori)
+  - [Numero votanti](#numero-votanti)
+    - [ore 12:00](#ore-1200)
+    - [ore 19:00](#ore-1900)
+    - [ore 23:00](#ore-2300)
+  - [RISULTATI DEFINITIVI](#risultati-definitivi)
+    - [SINDACO](#sindaco)
+    - [CONSIGLIO COMUNALE](#consiglio-comunale)
+
+<!-- /TOC -->
+
+## Popolazione
+
+- Popolazione (censimento 2011) `5130`;
 
 ## Elettori
 
