@@ -24,7 +24,7 @@ Elezioni amministrative del 12 giugno 2022 Comune di Villarosa 94010 Enna
 ## Elettori
 
 | sesso                             | valore |
-| --------------------------------- | ------ |
+| --------------------------------- | -----: |
 | maschi                            | 4213   |
 | femmine                           | 4252   |
 | totale                            | 8465   |
