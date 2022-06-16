@@ -27,7 +27,7 @@ La fonte dati è il [Comune di Villarosa](https://www.comune.villarosa.en.it/vil
 
 ## Popolazione
 
-- Popolazione (censimento 2011) `5130`;
+- Popolazione (censimento 2020, dati ISTAT) `4496`;
 
 ## Elettori
 
